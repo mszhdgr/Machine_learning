@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/hp/anaconda_projects/d0421ecc-c27e-4e3b-b634-7ac4b2227dbe/Machine_learning/Experiment_Tracking/mlruns/2/models/m-4c67ca4e3d2649aeb59c96ad982b0132/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.8.1
+model_id: m-4c67ca4e3d2649aeb59c96ad982b0132
+model_size_bytes: 90398
+model_uuid: m-4c67ca4e3d2649aeb59c96ad982b0132
+prompts: null
+run_id: 55443ed30ebc42c78200efafe9e2f4b4
+utc_time_created: '2026-01-28 17:06:31.423914'
