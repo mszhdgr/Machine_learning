@@ -1,2 +1,6 @@
 ./venv 
 ./lr_model.pth
+.venv
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*/.ipynb_checkpoints
